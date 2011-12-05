@@ -9,5 +9,5 @@ set foldmethod=syntax
 nnoremap <silent> <Space> @=(foldlevel('.')?'za':"\<Space>")<CR>
 vnoremap <Space> zf
 colorscheme solarized
-set background=light
+set background=dark
 let g:snips_author="Thomas Ingham <tingham@mac.com>"
